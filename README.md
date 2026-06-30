@@ -1,5 +1,5 @@
 
-# FmSV - Minecraft Server Manager
+# FmSV - Minecraft Server
 
 > **Fastest & easiest way to run a Minecraft server on Windows and {Linux soon...}**
 
