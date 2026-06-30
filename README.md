@@ -3,9 +3,9 @@
 
 > **Fastest & easiest way to run a Minecraft server on Windows and {Linux soon...}**
 
-[FA_README](https://github.com/HosseinZAW/FmSV/blob/main/FA_README.md)
-[THIS FORKS README](https://github.com/pale-k1ng/FmSV_gui_edition/blob/main/REAME_FORK.MD)
-[THIS FORKS README(FA)](https://github.com/pale-k1ng/FmSV_gui_edition/blob/main/FA_README_FORK.md)
+- [FA_README](https://github.com/HosseinZAW/FmSV/blob/main/FA_README.md)
+- [THIS FORKS README](https://github.com/pale-k1ng/FmSV_gui_edition/blob/main/REAME_FORK.MD)
+- [THIS FORKS README(FA)](https://github.com/pale-k1ng/FmSV_gui_edition/blob/main/FA_README_FORK.md)
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.6+-green)
