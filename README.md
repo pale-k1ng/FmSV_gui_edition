@@ -3,6 +3,8 @@
 
 > **Fastest & easiest way to run a Minecraft server on Windows and {Linux soon...}**
 
+[FA_README](https://github.com/HosseinZAW/FmSV/blob/main/FA_README.md)
+
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.6+-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20(Soon)-lightgrey)
